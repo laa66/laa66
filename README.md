@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Maxime
 
-##### An aspiring Full-Stack Developer actively gaining experience in Java, Go, and blockchain technologies. With a strong foundation in backend development and a passion for continuous learning, I'm eager to tackle new challenges and grow as a developer.
+##### A Full-Stack Developer actively gaining experience in Java, Go, and blockchain technologies. With a strong foundation in backend development and a passion for continuous learning, I'm eager to tackle new challenges and grow as a developer.
 
 - ☕ I primarly work with Go and Java, occasionally with Rust for smart contracts and with Vue (TypeScript) for UI 
 - 💾 My latest personal projects: [Statly](https://github.com/laa66/statly-backend-api) and [Goodboi](https://github.com/laa66/goodboi-discord-bot)
